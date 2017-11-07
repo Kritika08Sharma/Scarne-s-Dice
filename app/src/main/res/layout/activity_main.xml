@@ -58,7 +58,8 @@
         android:layout_alignBaseline="@+id/Reset"
         android:layout_alignBottom="@+id/Reset"
         android:layout_toRightOf="@+id/image"
-        android:layout_toEndOf="@+id/image" />
+        android:layout_toEndOf="@+id/image"
+        android:background="@drawable/button" />
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -71,7 +72,8 @@
     android:layout_alignBaseline="@+id/Reset"
     android:layout_alignBottom="@+id/Reset"
     android:layout_toLeftOf="@+id/image"
-    android:layout_toStartOf="@+id/image" />
+    android:layout_toStartOf="@+id/image"
+        android:background="@drawable/button" />
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
